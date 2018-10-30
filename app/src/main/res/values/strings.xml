@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="title_activity_response_list">ResponseList</string>
+    <string name="title_activity_detail_list">DetailList</string>
+    <string name="title_activity_test_review">TestReview</string>
+    <string name="button_name">Get Sentiment</string>
+    <string name="review_hint">Enter Your Review Here</string>
+    <string name="review_rating">Star Rating</string>
+    <string name="polarity_score">Polarity Score</string>
+    <string name="compound_score">Compound Score</string>
+</resources>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/testRating"
+        android:icon="@android:drawable/btn_star"
+        android:title="Predict Rating" />
+    <item android:id="@+id/help"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Get Help" />
+
+</menu>
