@@ -18,7 +18,7 @@ application mainly aims to assist the users in finding the best restaurant under
 
 ## Architecture
 
-![alt text](https://github.com/Anitt/ChatBot_Andriod_FrontEnd/blob/master/Architecture.JPG "Architecture")
+![alt text](https://github.com/Anitt/ChatBot_Andriod_FrontEnd/Architecture.JPG "Architecture")
 
 Android Application : https://github.com/Anitt/ChatBot_Andriod_FrontEnd
 
@@ -30,7 +30,7 @@ Preprocessing scripts: https://github.com/Anitt/ChatBot_MachineLearning
 
 **Link**: https://www.yelp.com/dataset
 
-![alt text](https://github.com/Anitt/ChatBot_Andriod_FrontEnd/blob/master/images/datasetSchema.png "Architecture")
+![alt text](https://github.com/Anitt/ChatBot_Andriod_FrontEnd/images/datasetSchema.png "Architecture")
 
 ## Data preprocessing
 
